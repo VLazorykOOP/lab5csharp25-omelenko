@@ -2,7 +2,7 @@
 
 namespace Lab5CSharp;
 
-class Program
+public class Program
 {
     static void Main()
     {
